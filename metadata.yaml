@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Juan_Valera_y_Alcala_Galiano
     - http://es.wikipedia.org/wiki/Juan_Valera
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16484#Juanita-La-Larga
 gutenberg_issued: '2005-08-08'
 gutenberg_type: Text
 identifiers:
